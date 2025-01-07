@@ -1,4 +1,4 @@
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Logo - Collections.png" />
+<img src="https://raw.githubusercontent.com/Team-Collections/.github/refs/heads/main/assets/Logo%20-%20Collections.png" />
 
 <div align="center">
   
