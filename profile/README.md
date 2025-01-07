@@ -1,4 +1,4 @@
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Collections Logo.png" />
+<img src="https://github.com/Team-Collections/.github/blob/main/assets/Logo - Collections.png" />
 
 <div align="center">
   
@@ -37,7 +37,7 @@ Halloween themed modder, composer, and programmer! I plan on becoming an indie g
 # Mods
 
 ### [Woodchip](https://github.com/Team-Collections/woodchip)
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Collections.png" align="left" width=136/>
+<img src="https://github.com/Team-Collections/.github/blob/main/assets/Icon - Collections.png" align="left" width=136/>
 
 A Minecraft mod that fills in the gaps in wood sets with new blocks, adds new wood variants, and other wood-related features.
 
@@ -47,7 +47,7 @@ A Minecraft mod that fills in the gaps in wood sets with new blocks, adds new wo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Collections/woodchip)
 
 ### [Field](https://github.com/Team-Collections/field)
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Collections.png" align="left" width=136/>
+<img src="https://github.com/Team-Collections/.github/blob/main/assets/Icon - Collections.png" align="left" width=136/>
 
 A Minecraft mod that breathes some new wind into the Banner system, adding new patterns, features, and removing limits. Let your creativity fly! 
 
