@@ -10,6 +10,9 @@ Hello! We are Team Collections. Our goal is to create Collections of vanilla-sty
 
 Each mod is focused on one specific area of the game, all coming together to create a greatly improved experience. We even plan on making a modpack!
 
+# Links
+- **Modrinth**: https://modrinth.com/organization/team-collections
+
 # Members
 
 ### [Trigam](https://github.com/TrigamDev/)
