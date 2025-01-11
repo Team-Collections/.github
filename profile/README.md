@@ -12,6 +12,7 @@ Each mod is focused on one specific area of the game, all coming together to cre
 
 # Links
 - **Modrinth**: https://modrinth.com/organization/team-collections
+- **Discord**: https://dsc.gg/collections-mc
 
 # Members
 
