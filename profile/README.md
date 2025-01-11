@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Team-Collections/.github/refs/heads/main/assets/Logo%20-%20Collections.png" />
+<img src="../assets/logos/Logo - Collections.png" />
 
 <div align="center">
   
@@ -17,7 +17,7 @@ Each mod is focused on one specific area of the game, all coming together to cre
 # Members
 
 ### [Trigam](https://github.com/TrigamDev/)
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Trigam.png" align="left" height=136/>
+<img src="../assets/pfps/Trigam.png" align="left" height=136/>
 
 A programmer, artist, and extreme comp sci addict. I'm currently a hobbyist programmer, but am in university for computer science, aiming to be a game developer.
 
@@ -29,7 +29,7 @@ A programmer, artist, and extreme comp sci addict. I'm currently a hobbyist prog
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrigamDev/)
 
 ### [Spook Lass](https://github.com/little8man/)
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Spook.png" align="left" height=136/>
+<img src="../assets/pfps/Spook.png" align="left" height=136/>
 
 Halloween themed modder, composer, and programmer! I plan on becoming an indie game developer later on in the future.
 
@@ -40,8 +40,8 @@ Halloween themed modder, composer, and programmer! I plan on becoming an indie g
 
 # Mods
 
-### [Woodchip](https://github.com/Team-Collections/woodchip)
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Icon - Collections.png" align="left" width=142/>
+<a href="https://github.com/Team-Collections/woodchip"><img src="../assets/logos/Logo - Woodchip.png"/></a>
+<img src="../assets/icons/Icon - Collections.png" align="left" width=142/>
 
 A Minecraft mod that fills in the gaps in wood sets with new blocks, adds new wood variants, and other wood-related features.
 
@@ -49,8 +49,8 @@ A Minecraft mod that fills in the gaps in wood sets with new blocks, adds new wo
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Team-Collections/woodchip)
 
-### [Field](https://github.com/Team-Collections/field)
-<img src="https://github.com/Team-Collections/.github/blob/main/assets/Icon%20-%20Field.png?raw=true" align="left" width=142/>
+<a href="https://github.com/Team-Collections/field"><img src="../assets/logos/Logo - Field.png"/></a>
+<img src="../assets/icons/Icon - Field.png" align="left" width=142/>
 
 A Minecraft mod that breathes some new wind into the Banner system, adding new patterns, features, and removing limits. Let your creativity fly! 
 
