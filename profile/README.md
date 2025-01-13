@@ -67,4 +67,4 @@ A Minecraft mod that fills in the gaps in wood sets with new blocks, adds new wo
 
 A Minecraft mod that breathes some new wind into the Banner system, adding new patterns, features, and removing limits. Let your creativity fly!
 
-<img src="../assets/showcase/Hanging Banners Tavern.png"/>
+<img src="../assets/showcase/Banners.png"/>
